@@ -19,7 +19,7 @@ I am also a language lover, who speaks fluently in four different languages, one
     <br>Made in .NET 5 using C#.
   <br><br>
 - **🔌 ReSQL**
-    <br>A MySQL/MariaDB wrapper for .NET 5 (C#), made for very specific needs.
+    <br>A MySQL/MariaDB wrapper, with the latest version compiled for .NET 5 (C#), made for very specific needs.
   <br><br>
 - **📣 Lore's Discord Bot**
     <br>A simple ticketing and embed-maker for a small Minecraft community my friends were developing.
