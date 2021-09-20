@@ -30,33 +30,35 @@ I am also a language lover, who speaks fluently in four different languages, one
 <br><br>
 
 ## 🔨 Languages and Tools
-<img align="left" alt="C#" width="26px" src="https://lielamar.com/svgs/csharp.svg" />
-<img align="left" alt="VS" width="26px" src="https://lielamar.com/svgs/vs.svg" />
-<img align="left" alt="JavaScript" width="26px" src="https://lielamar.com/svgs/javascript.svg" />
-<img align="left" alt="TypeScript" width="26px" src="https://lielamar.com/svgs/typescript.svg" />
-<img align="left" alt="VSCode" width="26px" src="https://lielamar.com/svgs/vscode.svg" />
-<img align="left" alt="NodeJS" width="26px" src="https://lielamar.com/svgs/nodejs.svg" />
-<img align="left" alt="React" width="26px" src="https://lielamar.com/svgs/react.svg" />
-<img align="left" alt="NextJS" width="26px" src="https://lielamar.com/svgs/nextjs.svg" />
+<img align="left" alt="C#" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" />
+<img align="left" alt=".NET" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" />
+<img align="left" alt="VS" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" />
+<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" />
+<img align="left" alt="TypeScript" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" />
+<img align="left" alt="VSCode" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" />
+<img align="left" alt="NodeJS" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" />
+<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" />
+<img align="left" alt="NextJS" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" />
 
 <br><br>
 
-<img align="left" alt="MySQL" width="26px" src="https://lielamar.com/svgs/mysql.svg" />
-<img align="left" alt="MongoDB" width="26px" src="https://lielamar.com/svgs/mongodb.svg" />
-<img align="left" alt="Python" width="26px" src="https://lielamar.com/svgs/python.svg" />
-<img align="left" alt="HTML5" width="26px" src="https://lielamar.com/svgs/html5.svg" />
-<img align="left" alt="CSS3" width="26px" src="https://lielamar.com/svgs/css3.svg" />
-<img align="left" alt="PHP" width="26px" src="https://lielamar.com/svgs/php.svg" />
-<img align="left" alt="Atom" width="26px" src="https://lielamar.com/svgs/atom.svg" />
-<img align="left" alt="Linux" width="26px" src="https://lielamar.com/svgs/linux.svg" />
+<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" />
+<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" />
+<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
+<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
+<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
+<img align="left" alt="PHP" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" />
+<img align="left" alt="Atom" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/atom/atom-original.svg" />
+<img align="left" alt="Linux" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" />
+<img align="left" alt="Windows" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" />
 <br><br><br>
 
 
 ## 📬 Contact me
 
-[<img align="left" alt="linkedin" width="30px" src="https://lielamar.com/svgs/linkedin_colored.svg" />][linkedin]
-[<img align="left" alt="twitter"  width="30px" src="https://lielamar.com/svgs/twitter_colored.svg" />][twitter]
-[<img align="left" alt="discord"  width="30px" src="https://lielamar.com/svgs/discord.svg" />][discord]
+[<img align="left" alt="linkedin" width="30px" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" />][linkedin]
+[<img align="left" alt="twitter"  width="30px" src="https://cdn.worldvectorlogo.com/logos/twitter-6.svg" />][twitter]
+[<img align="left" alt="discord"  width="30px" src="https://cdn.worldvectorlogo.com/logos/discord.svg" />][discord]
 
 <br>
 <br>
