@@ -18,7 +18,7 @@ I am also a language lover, who speaks fluently in four different languages, one
     <br>A simple software that runs in background and allows you to create PDF files from multiple screenshots. 
     <br>Made in .NET 5 using C#.
   <br><br>
-  - **🌤 Yerushamayim.Net**
+- **🌤 Yerushamayim.Net**
    <br>A C# .NET wrapper library for the 02ws (ירושמיים) API.
 <br><br>
 - **🔌 ReSQL**
