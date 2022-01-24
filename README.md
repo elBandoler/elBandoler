@@ -25,11 +25,8 @@ I am also a language lover, who speaks fluently in four different languages, one
     <br>A MySQL/MariaDB wrapper, with the latest version compiled for .NET 5 (C#), made for very specific needs.
   <br><br>
 - **📣 Lore's Discord Bot**
-    <br>A simple ticketing and embed-maker for a small Minecraft community my friends were developing.
+    <br>A simple ticketing and embed-maker bot, created for a small Minecraft community my friends were developing.
     <br>Made in NodeJS using TypeScript.
-  <br><br>
-- **🎮 Bandoler's Open World**
-    <br>A coming up open world game mode for GTA V's alt:V Multiplayer, written in C# and TypeScript.
   <br><br>
 
 ## 🔨 Languages and Tools
